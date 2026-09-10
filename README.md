@@ -4,17 +4,6 @@ I'm a Computer Engineering student at MEF University. I spend most of my time le
 
 I'm particularly interested in software development, systems, data structures, and the ideas behind the tools I use. A lot of my projects start with a simple question like "How does this actually work?" and turn into an attempt to build a smaller version myself.
 
-## What I'm Working On
-
-Right now, I'm mainly exploring:
-
-* Python and software development
-* Data structures and algorithms
-* Systems programming and computer architecture
-* Operating systems and database internals
-* Testing, benchmarking, and developer tools
-* Linux and development workflows
-
 ## Projects
 
 ### PyForge
