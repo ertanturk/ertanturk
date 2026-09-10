@@ -1,5 +1,4 @@
-# Ertan Tunç Türk
-
+# Hello
 Computer Engineering student interested in software development, systems programming, and how software works underneath the abstractions.
 
 I am currently learning by building projects, experimenting with different approaches, and trying to understand the ideas behind the tools and systems I use.
