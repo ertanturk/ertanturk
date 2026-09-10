@@ -48,6 +48,16 @@ Along the way, it became a practical project for learning about browser automati
 
 ---
 
+### [cv-pipeline](https://github.com/ertanturk/cv-pipeline)
+
+I built cv-pipeline to experiment with automating the process of creating a tailored resume.
+
+The project takes a structured candidate profile, looks at current job listings, uses Google Gemini to help adapt the content to the target market, and generates a single-page resume through LaTeX.
+
+It also gave me experience with CLI design, YAML-based configuration, web data collection, LLM integration, PDF generation, authentication, and keeping generated content constrained to a fixed format.
+
+---
+
 ### [ScoutIQ](https://github.com/ertanturk/ScoutIQ)
 
 ScoutIQ was a team project where we built a football scouting application.
