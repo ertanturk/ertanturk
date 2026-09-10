@@ -1,92 +1,87 @@
-# Hello
-Computer Engineering student interested in software development, systems programming, and how software works underneath the abstractions.
+# Hi, I'm Ertan
 
-I am currently learning by building projects, experimenting with different approaches, and trying to understand the ideas behind the tools and systems I use.
+I'm a Computer Engineering student at MEF University. I spend most of my time learning by building things and trying to understand how software works beyond the surface.
 
-## Areas I'm Exploring
+I'm particularly interested in software development, systems, data structures, and the ideas behind the tools I use. A lot of my projects start with a simple question like "How does this actually work?" and turn into an attempt to build a smaller version myself.
 
-* Software development with Python and Java
+## What I'm Working On
+
+Right now, I'm mainly exploring:
+
+* Python and software development
 * Data structures and algorithms
 * Systems programming and computer architecture
-* Databases and storage systems
-* Testing, benchmarking, and developer tooling
-* Linux and software development workflows
+* Operating systems and database internals
+* Testing, benchmarking, and developer tools
+* Linux and development workflows
 
 ## Projects
 
 ### PyForge
 
-A collection of Python tools I am building while learning more about software development and Python internals.
+I've been building a small collection of Python developer tools under the name **PyForge**.
+
+I started these projects mainly to understand parts of the development workflow by implementing them myself rather than simply relying on existing tools.
 
 * [PyForge Test](https://github.com/ertanturk/pyforge-test) — a small testing framework with test discovery, decorators, parameterization, markers, and a CLI
-* [PyForge Benchmark](https://github.com/ertanturk/pyforge-benchmark) — a benchmarking tool that also experiments with empirical Big-O analysis
-* [PyForge Profile](https://github.com/ertanturk/pyforge-profile) — a lightweight profiler exploring execution time, memory usage, subprocess isolation, and AST analysis
+* [PyForge Benchmark](https://github.com/ertanturk/pyforge-benchmark) — a benchmarking tool that also lets me experiment with empirical Big-O analysis
+* [PyForge Profile](https://github.com/ertanturk/pyforge-profile) — a lightweight profiler for exploring execution time, memory usage, subprocess isolation, and AST analysis
 * [PyForge Scaffold](https://github.com/ertanturk/pyforge-scaffold) — a project scaffolding tool for creating structured Python projects
 * [PyForge Deploy](https://github.com/ertanturk/pyforge-deploy) — a release and deployment tool for automating parts of the Python package lifecycle
 
 ### cachyDB
 
-[Repository](https://github.com/ertanturk/cachyDB)
+[cachyDB](https://github.com/ertanturk/cachyDB)
 
-A learning project where I am exploring how a database engine can be built from the ground up.
+I built cachyDB as a way to learn more about how database engines work internally.
 
-It includes ideas such as write-ahead logging, B-Tree indexing, caching, page-based storage, recovery, compaction, and concurrent access.
+It currently explores concepts such as write-ahead logging, B-Tree indexing, caching, page-based storage, recovery, compaction, and concurrent access.
 
 ### os-sim
 
-[Repository](https://github.com/ertanturk/os-sim)
+[os-sim](https://github.com/ertanturk/os-sim)
 
-An educational simulation of an 8-bit computer and a small multitasking operating system.
+This project started as an attempt to understand what happens closer to the hardware.
 
-The project gives me a way to explore concepts such as CPU architecture, memory protection, interrupts, system calls, process scheduling, assembly, and machine code.
+I built a simulated 8-bit computer and a small multitasking operating system to experiment with CPU execution, memory protection, interrupts, system calls, scheduling, assembly, and machine code.
 
 ### Blackboard Sync
 
-[Repository](https://github.com/ertanturk/blackboard-sync)
+[Blackboard Sync](https://github.com/ertanturk/blackboard-sync)
 
-A CLI tool that synchronizes course materials from Blackboard Ultra to a local machine.
+I built this because I wanted a simpler way to keep my university course materials synchronized locally.
 
-I built it to solve a practical problem while learning more about browser automation, filesystem operations, authentication, concurrency, and application architecture.
+Along the way, it became a practical project for learning about browser automation, authentication, filesystem operations, concurrency, and building a cross-platform CLI application.
 
 ### ScoutIQ
 
-[Repository](https://github.com/ertanturk/ScoutIQ)
+[ScoutIQ](https://github.com/ertanturk/ScoutIQ)
 
-A team project for a football scouting application.
+ScoutIQ was a team project where we built a football scouting application.
 
-My work mainly focused on the backend and core logic, including player search and filtering, tactical validation, squad management, player ratings, watchlists, comparison features, and data persistence.
+I mainly worked on the backend and core logic, including player search and filtering, tactical validation, squad management, player ratings, watchlists, comparison features, and data persistence.
 
 ### Dictionary Search
 
-[Repository](https://github.com/ertanturk/dictionary-search)
+[Dictionary Search](https://github.com/ertanturk/dictionary-search)
 
-A Java project developed while studying data structures and algorithms.
+I built this project while studying data structures and algorithms in Java.
 
-The project implements several core data structures from scratch and compares linear search, binary search, and hash-based lookup through both an interactive application and performance experiments.
+Instead of using Java's built-in collections, I implemented structures such as a hash table, linked list, and dynamic array myself, and used them to compare linear search, binary search, and hash-based lookup.
 
 ### LZW Compression
 
-[Repository](https://github.com/ertanturk/lzw-compression)
+[LZW Compression](https://github.com/ertanturk/lzw-compression)
 
-A Python implementation of the Lempel-Ziv-Welch compression algorithm.
+I implemented the Lempel-Ziv-Welch compression algorithm in Python to better understand dictionary-based compression.
 
-The project explores text and image compression, variable-width bitstreams, image preprocessing, RGB channel handling, compression metrics, and testing.
+The project also gave me the opportunity to work with variable-width bitstreams, image compression, RGB channels, preprocessing, compression metrics, and automated testing.
 
-## Technologies I'm Using
+## What I'm Learning
 
-**Languages**
+I'm still early in my career, so most of what I build is part of the learning process.
 
-Python · Java · JavaScript
-
-**Tools**
-
-Git · GitHub · Linux · Docker · GitHub Actions
-
-**Python**
-
-pytest · Ruff · uv
-
-## Currently Learning
+At the moment, I'm focusing on:
 
 * Data structures and algorithms
 * Systems programming
@@ -94,21 +89,20 @@ pytest · Ruff · uv
 * Operating systems
 * Database internals
 * Python internals
-* Software engineering practices
+* Writing maintainable software
 
-## How I Learn
+## How I Like to Learn
 
-I learn mainly by building things.
+I learn best by building something myself.
 
-When I encounter a concept or tool that I do not fully understand, I try to implement a smaller version of it, experiment with it, and use the result to understand the underlying idea better.
+When I come across a concept that I don't fully understand, I usually try to break it down, implement a smaller version, experiment with it, and see what happens.
 
-Most of the projects here are part of that process.
+Some of the projects here are polished tools, while others are simply experiments that helped me understand a subject better. Both are part of how I'm learning.
 
 ## Contact
 
-* LinkedIn: [linkedin.com/in/ertantuncturk](https://www.linkedin.com/in/ertantuncturk/)
-* Email: [turke@mef.edu.tr](mailto:turke@mef.edu.tr)
+[LinkedIn](https://www.linkedin.com/in/ertantuncturk/) · [turke@mef.edu.tr](mailto:turke@mef.edu.tr)
 
 ---
 
-Currently studying Computer Engineering at MEF University and continuously working on personal and academic projects.
+I'm currently studying Computer Engineering at MEF University and using my projects to explore the parts of software engineering that interest me most.
