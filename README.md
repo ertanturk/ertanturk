@@ -48,6 +48,14 @@ Along the way, it became a practical project for learning about browser automati
 
 ---
 
+### [pydocgen](https://github.com/ertanturk/pydocgen)
+
+I built this because I want to decrease writing docs for functions in each project.
+
+Project is basically AI-assisted Google-style docstring generator for Python source files.
+
+---
+
 ### [cv-pipeline](https://github.com/ertanturk/cv-pipeline)
 
 I built cv-pipeline to experiment with automating the process of creating a tailored resume.
