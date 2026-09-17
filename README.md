@@ -14,7 +14,7 @@ I've been building a small collection of Python developer tools under the name *
 
 I started these projects mainly to understand different parts of the development workflow by implementing them myself rather than simply relying on existing tools. These were also some of my first larger projects, so they are far from perfect, but they taught me a lot about Python, software architecture, and development workflows.
 
-The PyForge projects are currently discontinued and no longer actively maintained. I may revisit some of these ideas in the future and rebuild them from scratch as I gain more experience.
+The PyForge projects are archived for now. I may revisit some of these ideas in the future and rebuild them from scratch as I gain more experience.
 
 * [PyForge Test](https://github.com/ertanturk/pyforge-test) — a small testing framework with test discovery, decorators, parameterization, markers, and a CLI
 * [PyForge Benchmark](https://github.com/ertanturk/pyforge-benchmark) — a benchmarking tool that also lets me experiment with empirical Big-O analysis
@@ -50,9 +50,9 @@ Along the way, it became a practical project for learning about browser automati
 
 ### [pydocgen](https://github.com/ertanturk/pydocgen)
 
-I built this because I want to decrease writing docs for functions in each project.
+I built this because I wanted to reduce the time spent writing docstrings for functions in each project.
 
-Project is basically AI-assisted Google-style docstring generator for Python source files.
+The project is an AI-assisted, Google-style docstring generator for Python source files.
 
 ---
 
