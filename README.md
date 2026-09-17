@@ -74,6 +74,14 @@ I mainly worked on the backend and core logic, including player search and filte
 
 ---
 
+### [Quiz Solver](https://github.com/ertanturk/quiz-solver)
+
+I built this to automate answering Blackboard Learn Ultra quizzes. It reads the questions on screen, asks Google Gemini AI for answers, and fills the form fields in your browser — you still review and submit manually.
+
+The project also gave me experience with browser automation (Playwright), CLI design, and working with the Gemini API.
+
+---
+
 ### [Dictionary Search](https://github.com/ertanturk/dictionary-search)
 
 I built this project while studying data structures and algorithms in Java.
