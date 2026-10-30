@@ -24,6 +24,12 @@ The PyForge projects are archived for now. I may revisit some of these ideas in 
 
 ---
 
+### [Recipe-Finder][https://github.com/ertanturk/recipe_finder]
+
+I built this project as a way to learn backend with fastapi and httpx and sql.
+
+---
+
 ### [cachyDB](https://github.com/ertanturk/cachyDB)
 
 I built cachyDB as a way to learn more about how database engines work internally.
